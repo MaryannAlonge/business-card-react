@@ -4,11 +4,10 @@ export default function Interests() {
   return (
     <div>
       <h5 className='int'>Interests</h5>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Iste quod tenetur iure quae, provident ullam rerum officiis 
-        officia possimus optio molestias magnam sunt. Hic odit natus,
-         accusamus fuga itaque tenetur?
+      <p className='int-cont'>
+      Food expert. Music scholar. Reader. 
+      Internet fanatic. Bacon buff. Entrepreneur. 
+      Travel geek. Pop culture ninja. Coffee fanatic.
       </p>
     </div>
   )
