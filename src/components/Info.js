@@ -7,7 +7,7 @@ export default function Info() {
       <h3 className='name'>Maryann Alonge</h3>
       <h5 className='title'>Full Stack Developer/Engineer</h5>
       <a className='web' href="https://www.linkedin.com/in/maryann-alonge-0946ba1a3/">maryannalonge.com</a>
-      <button className='btn'><i className='mail' class="fa fa-envelope"></i>Email</button>
+      <button className='btn'><img src={require("../images/mail.png")} alt="" />Email</button>
     </div>
   )
 }
